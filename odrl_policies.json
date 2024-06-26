@@ -1,0 +1,1414 @@
+{
+  "policies": [
+    {
+      "uid": "policy001",
+      "permission": [
+        {
+          "target": "consent001",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "biomedical research"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "EU only"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent001",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "allowed"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent001",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy002",
+      "permission": [
+        {
+          "target": "consent002",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "biomedical research"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent002",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "allowed"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent002",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy003",
+      "permission": [
+        {
+          "target": "consent003",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "clinical trials"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent003",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent003",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy004",
+      "permission": [
+        {
+          "target": "consent004",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "biomedical research"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent004",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent004",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy005",
+      "permission": [
+        {
+          "target": "consent005",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "clinical trials"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent005",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent005",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy006",
+      "permission": [
+        {
+          "target": "consent006",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "biomedical research"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent006",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent006",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy007",
+      "permission": [
+        {
+          "target": "consent007",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "clinical trials"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent007",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent007",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy008",
+      "permission": [
+        {
+          "target": "consent008",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "biomedical research"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent008",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent008",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy009",
+      "permission": [
+        {
+          "target": "consent009",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "clinical trials"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent009",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent009",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy010",
+      "permission": [
+        {
+          "target": "consent010",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "biomedical research"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent010",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent010",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy011",
+      "permission": [
+        {
+          "target": "consent011",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "clinical trials"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent011",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent011",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy012",
+      "permission": [
+        {
+          "target": "consent012",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "biomedical research"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent012",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent012",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy013",
+      "permission": [
+        {
+          "target": "consent013",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "clinical trials"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent013",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent013",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy014",
+      "permission": [
+        {
+          "target": "consent014",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "biomedical research"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent014",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent014",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy015",
+      "permission": [
+        {
+          "target": "consent015",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "clinical trials"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent015",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent015",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy016",
+      "permission": [
+        {
+          "target": "consent016",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "biomedical research"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent016",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent016",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy017",
+      "permission": [
+        {
+          "target": "consent017",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "clinical trials"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent017",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent017",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy018",
+      "permission": [
+        {
+          "target": "consent018",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "biomedical research"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent018",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent018",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy019",
+      "permission": [
+        {
+          "target": "consent019",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "clinical trials"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent019",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent019",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy020",
+      "permission": [
+        {
+          "target": "consent020",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "biomedical research"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent020",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent020",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy021",
+      "permission": [
+        {
+          "target": "consent021",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "clinical trials"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent021",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent021",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy022",
+      "permission": [
+        {
+          "target": "consent022",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "biomedical research"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent022",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent022",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy023",
+      "permission": [
+        {
+          "target": "consent023",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "clinical trials"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent023",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent023",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy024",
+      "permission": [
+        {
+          "target": "consent024",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "biomedical research"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent024",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent024",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy025",
+      "permission": [
+        {
+          "target": "consent025",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "clinical trials"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent025",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent025",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy026",
+      "permission": [
+        {
+          "target": "consent026",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "biomedical research"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent026",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent026",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy027",
+      "permission": [
+        {
+          "target": "consent027",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "clinical trials"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent027",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent027",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy028",
+      "permission": [
+        {
+          "target": "consent028",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "biomedical research"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent028",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent028",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy029",
+      "permission": [
+        {
+          "target": "consent029",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "clinical trials"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent029",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent029",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "policy030",
+      "permission": [
+        {
+          "target": "consent030",
+          "action": ["read", "use"],
+          "constraint": [
+            {
+              "leftOperand": "purpose",
+              "operator": "eq",
+              "rightOperand": "biomedical research"
+            },
+            {
+              "leftOperand": "geographical",
+              "operator": "eq",
+              "rightOperand": "International"
+            }
+          ]
+        }
+      ],
+      "prohibition": [
+        {
+          "target": "consent030",
+          "action": ["commercial-use"],
+          "constraint": [
+            {
+              "leftOperand": "commercial",
+              "operator": "eq",
+              "rightOperand": "prohibited"
+            }
+          ]
+        }
+      ],
+      "obligation": [
+        {
+          "target": "consent030",
+          "action": "anonymize",
+          "constraint": [
+            {
+              "leftOperand": "post-study",
+              "operator": "eq",
+              "rightOperand": "completion"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

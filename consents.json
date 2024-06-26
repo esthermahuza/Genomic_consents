@@ -1,0 +1,1262 @@
+[
+  {
+    "consent_id": "consent001",
+    "status": "active",
+    "participant_id": "Participant001",
+    "consent_details": {
+      "purpose": "biomedical research",
+      "scope_of_data_use": {
+        "data_types": ["Clinical Data"],
+        "sharing_scope": "Locally only"
+      },
+      "data_retention": {
+        "duration": "7 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2025-01-25",
+      "end": "2030-01-24"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant001 on 2025-01-25",
+      "investigator_signature": "Signed by Dr. Smith on 2025-01-25"
+    },
+    "DUO_terms": [
+      {
+        "code": "GEO-EU",
+        "display": "Geographical limitation: EU only"
+      },
+      {
+        "code": "HMB",
+        "display": "Health/Medical/Biomedical"
+      }
+    ],
+    "policy_id": "policy001",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent001.pdf"
+    }
+  },
+  {
+    "consent_id": "consent002",
+    "status": "inactive",
+    "participant_id": "Participant002",
+    "consent_details": {
+      "purpose": "biomedical research",
+      "scope_of_data_use": {
+        "data_types": ["Clinical Data"],
+        "sharing_scope": "No restrictions"
+      },
+      "data_retention": {
+        "duration": "8 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2024-08-14",
+      "end": "2026-08-14"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant002 on 2024-08-14",
+      "investigator_signature": "Signed by Dr. Smith on 2024-08-14"
+    },
+    "DUO_terms": [
+      {
+        "code": "DS",
+        "display": "Disease-specific research"
+      },
+      {
+        "code": "DS",
+        "display": "Disease-specific research"
+      }
+    ],
+    "policy_id": "policy002",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent002.pdf"
+    }
+  },
+  {
+    "consent_id": "consent003",
+    "status": "withdrawn",
+    "participant_id": "Participant003",
+    "consent_details": {
+      "purpose": "clinical trials",
+      "scope_of_data_use": {
+        "data_types": ["Clinical Data"],
+        "sharing_scope": "Locally only"
+      },
+      "data_retention": {
+        "duration": "10 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2024-06-26",
+      "end": "2025-06-26"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant003 on 2024-06-26",
+      "investigator_signature": "Signed by Dr. Smith on 2024-06-26"
+    },
+    "DUO_terms": [
+      {
+        "code": "DS",
+        "display": "Disease-specific research"
+      },
+      {
+        "code": "NCU",
+        "display": "Non-commercial use only"
+      }
+    ],
+    "policy_id": "policy003",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent003.pdf"
+    }
+  },
+  {
+    "consent_id": "consent004",
+    "status": "withdrawn",
+    "participant_id": "Participant004",
+    "consent_details": {
+      "purpose": "biomedical research",
+      "scope_of_data_use": {
+        "data_types": ["Clinical Data"],
+        "sharing_scope": "Internationally, with restrictions"
+      },
+      "data_retention": {
+        "duration": "8 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2025-05-07",
+      "end": "2030-05-06"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant004 on 2025-05-07",
+      "investigator_signature": "Signed by Dr. Smith on 2025-05-07"
+    },
+    "DUO_terms": [
+      {
+        "code": "DS",
+        "display": "Disease-specific research"
+      },
+      {
+        "code": "DS",
+        "display": "Disease-specific research"
+      }
+    ],
+    "policy_id": "policy004",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent004.pdf"
+    }
+  },
+  {
+    "consent_id": "consent005",
+    "status": "active",
+    "participant_id": "Participant005",
+    "consent_details": {
+      "purpose": "biomedical research",
+      "scope_of_data_use": {
+        "data_types": ["Phenotypic Data"],
+        "sharing_scope": "Internationally, with restrictions"
+      },
+      "data_retention": {
+        "duration": "9 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2024-11-19",
+      "end": "2028-11-18"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant005 on 2024-11-19",
+      "investigator_signature": "Signed by Dr. Smith on 2024-11-19"
+    },
+    "DUO_terms": [
+      {
+        "code": "NCU",
+        "display": "Non-commercial use only"
+      },
+      {
+        "code": "HMB",
+        "display": "Health/Medical/Biomedical"
+      }
+    ],
+    "policy_id": "policy005",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent005.pdf"
+    }
+  },
+  {
+    "consent_id": "consent006",
+    "status": "inactive",
+    "participant_id": "Participant006",
+    "consent_details": {
+      "purpose": "genetic studies",
+      "scope_of_data_use": {
+        "data_types": ["Phenotypic Data"],
+        "sharing_scope": "Locally only"
+      },
+      "data_retention": {
+        "duration": "8 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2025-02-26",
+      "end": "2030-02-25"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant006 on 2025-02-26",
+      "investigator_signature": "Signed by Dr. Smith on 2025-02-26"
+    },
+    "DUO_terms": [
+      {
+        "code": "GEO-EU",
+        "display": "Geographical limitation: EU only"
+      },
+      {
+        "code": "DS",
+        "display": "Disease-specific research"
+      }
+    ],
+    "policy_id": "policy006",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent006.pdf"
+    }
+  },
+  {
+    "consent_id": "consent007",
+    "status": "withdrawn",
+    "participant_id": "Participant007",
+    "consent_details": {
+      "purpose": "genetic studies",
+      "scope_of_data_use": {
+        "data_types": ["Phenotypic Data"],
+        "sharing_scope": "Internationally, with restrictions"
+      },
+      "data_retention": {
+        "duration": "1 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2024-07-12",
+      "end": "2029-07-11"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant007 on 2024-07-12",
+      "investigator_signature": "Signed by Dr. Smith on 2024-07-12"
+    },
+    "DUO_terms": [
+      {
+        "code": "HMB",
+        "display": "Health/Medical/Biomedical"
+      },
+      {
+        "code": "NCU",
+        "display": "Non-commercial use only"
+      }
+    ],
+    "policy_id": "policy007",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent007.pdf"
+    }
+  },
+  {
+    "consent_id": "consent008",
+    "status": "inactive",
+    "participant_id": "Participant008",
+    "consent_details": {
+      "purpose": "clinical trials",
+      "scope_of_data_use": {
+        "data_types": ["Clinical Data"],
+        "sharing_scope": "Locally only"
+      },
+      "data_retention": {
+        "duration": "8 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2025-05-10",
+      "end": "2026-05-10"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant008 on 2025-05-10",
+      "investigator_signature": "Signed by Dr. Smith on 2025-05-10"
+    },
+    "DUO_terms": [
+      {
+        "code": "NCU",
+        "display": "Non-commercial use only"
+      },
+      {
+        "code": "NCU",
+        "display": "Non-commercial use only"
+      }
+    ],
+    "policy_id": "policy008",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent008.pdf"
+    }
+  },
+  {
+    "consent_id": "consent009",
+    "status": "active",
+    "participant_id": "Participant009",
+    "consent_details": {
+      "purpose": "clinical trials",
+      "scope_of_data_use": {
+        "data_types": ["Clinical Data"],
+        "sharing_scope": "Locally only"
+      },
+      "data_retention": {
+        "duration": "9 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2025-02-01",
+      "end": "2030-01-31"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant009 on 2025-02-01",
+      "investigator_signature": "Signed by Dr. Smith on 2025-02-01"
+    },
+    "DUO_terms": [
+      {
+        "code": "HMB",
+        "display": "Health/Medical/Biomedical"
+      },
+      {
+        "code": "HMB",
+        "display": "Health/Medical/Biomedical"
+      }
+    ],
+    "policy_id": "policy009",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent009.pdf"
+    }
+  },
+  {
+    "consent_id": "consent010",
+    "status": "active",
+    "participant_id": "Participant010",
+    "consent_details": {
+      "purpose": "clinical trials",
+      "scope_of_data_use": {
+        "data_types": ["Phenotypic Data"],
+        "sharing_scope": "No restrictions"
+      },
+      "data_retention": {
+        "duration": "9 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2025-02-11",
+      "end": "2029-02-10"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant010 on 2025-02-11",
+      "investigator_signature": "Signed by Dr. Smith on 2025-02-11"
+    },
+    "DUO_terms": [
+      {
+        "code": "DS",
+        "display": "Disease-specific research"
+      },
+      {
+        "code": "NCU",
+        "display": "Non-commercial use only"
+      }
+    ],
+    "policy_id": "policy010",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent010.pdf"
+    }
+  },
+  {
+    "consent_id": "consent011",
+    "status": "withdrawn",
+    "participant_id": "Participant011",
+    "consent_details": {
+      "purpose": "genetic studies",
+      "scope_of_data_use": {
+        "data_types": ["Phenotypic Data"],
+        "sharing_scope": "No restrictions"
+      },
+      "data_retention": {
+        "duration": "5 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2025-03-06",
+      "end": "2026-03-06"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant011 on 2025-03-06",
+      "investigator_signature": "Signed by Dr. Smith on 2025-03-06"
+    },
+    "DUO_terms": [
+      {
+        "code": "GEO-EU",
+        "display": "Geographical limitation: EU only"
+      },
+      {
+        "code": "NCU",
+        "display": "Non-commercial use only"
+      }
+    ],
+    "policy_id": "policy011",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent011.pdf"
+    }
+  },
+  {
+    "consent_id": "consent012",
+    "status": "active",
+    "participant_id": "Participant012",
+    "consent_details": {
+      "purpose": "genetic studies",
+      "scope_of_data_use": {
+        "data_types": ["Genomic Data"],
+        "sharing_scope": "Internationally, with restrictions"
+      },
+      "data_retention": {
+        "duration": "8 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2024-09-12",
+      "end": "2028-09-11"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant012 on 2024-09-12",
+      "investigator_signature": "Signed by Dr. Smith on 2024-09-12"
+    },
+    "DUO_terms": [
+      {
+        "code": "HMB",
+        "display": "Health/Medical/Biomedical"
+      },
+      {
+        "code": "NCU",
+        "display": "Non-commercial use only"
+      }
+    ],
+    "policy_id": "policy012",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent012.pdf"
+    }
+  },
+  {
+    "consent_id": "consent013",
+    "status": "active",
+    "participant_id": "Participant013",
+    "consent_details": {
+      "purpose": "clinical trials",
+      "scope_of_data_use": {
+        "data_types": ["Genomic Data"],
+        "sharing_scope": "Locally only"
+      },
+      "data_retention": {
+        "duration": "4 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2025-05-28",
+      "end": "2030-05-27"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant013 on 2025-05-28",
+      "investigator_signature": "Signed by Dr. Smith on 2025-05-28"
+    },
+    "DUO_terms": [
+      {
+        "code": "NCU",
+        "display": "Non-commercial use only"
+      },
+      {
+        "code": "DS",
+        "display": "Disease-specific research"
+      }
+    ],
+    "policy_id": "policy013",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent013.pdf"
+    }
+  },
+  {
+    "consent_id": "consent014",
+    "status": "active",
+    "participant_id": "Participant014",
+    "consent_details": {
+      "purpose": "biomedical research",
+      "scope_of_data_use": {
+        "data_types": ["Phenotypic Data"],
+        "sharing_scope": "Internationally, with restrictions"
+      },
+      "data_retention": {
+        "duration": "8 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2024-08-15",
+      "end": "2027-08-15"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant014 on 2024-08-15",
+      "investigator_signature": "Signed by Dr. Smith on 2024-08-15"
+    },
+    "DUO_terms": [
+      {
+        "code": "HMB",
+        "display": "Health/Medical/Biomedical"
+      },
+      {
+        "code": "NCU",
+        "display": "Non-commercial use only"
+      }
+    ],
+    "policy_id": "policy014",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent014.pdf"
+    }
+  },
+  {
+    "consent_id": "consent015",
+    "status": "inactive",
+    "participant_id": "Participant015",
+    "consent_details": {
+      "purpose": "biomedical research",
+      "scope_of_data_use": {
+        "data_types": ["Genomic Data"],
+        "sharing_scope": "Locally only"
+      },
+      "data_retention": {
+        "duration": "9 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2025-01-21",
+      "end": "2028-01-21"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant015 on 2025-01-21",
+      "investigator_signature": "Signed by Dr. Smith on 2025-01-21"
+    },
+    "DUO_terms": [
+      {
+        "code": "GEO-EU",
+        "display": "Geographical limitation: EU only"
+      },
+      {
+        "code": "DS",
+        "display": "Disease-specific research"
+      }
+    ],
+    "policy_id": "policy0015",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent015.pdf"
+    }
+  },
+  {
+    "consent_id": "consent016",
+    "status": "inactive",
+    "participant_id": "Participant016",
+    "consent_details": {
+      "purpose": "biomedical research",
+      "scope_of_data_use": {
+        "data_types": ["Clinical Data"],
+        "sharing_scope": "No restrictions"
+      },
+      "data_retention": {
+        "duration": "9 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2024-10-31",
+      "end": "2026-10-31"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant016 on 2024-10-31",
+      "investigator_signature": "Signed by Dr. Smith on 2024-10-31"
+    },
+    "DUO_terms": [
+      {
+        "code": "DS",
+        "display": "Disease-specific research"
+      },
+      {
+        "code": "HMB",
+        "display": "Health/Medical/Biomedical"
+      }
+    ],
+    "policy_id": "policy016",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent016.pdf"
+    }
+  },
+  {
+    "consent_id": "consent017",
+    "status": "inactive",
+    "participant_id": "Participant017",
+    "consent_details": {
+      "purpose": "genetic studies",
+      "scope_of_data_use": {
+        "data_types": ["Clinical Data"],
+        "sharing_scope": "Locally only"
+      },
+      "data_retention": {
+        "duration": "8 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2024-09-24",
+      "end": "2025-09-24"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant017 on 2024-09-24",
+      "investigator_signature": "Signed by Dr. Smith on 2024-09-24"
+    },
+    "DUO_terms": [
+      {
+        "code": "GEO-EU",
+        "display": "Geographical limitation: EU only"
+      },
+      {
+        "code": "GEO-EU",
+        "display": "Geographical limitation: EU only"
+      }
+    ],
+    "policy_id": "policy017",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent017.pdf"
+    }
+  },
+  {
+    "consent_id": "consent018",
+    "status": "withdrawn",
+    "participant_id": "Participant018",
+    "consent_details": {
+      "purpose": "genetic studies",
+      "scope_of_data_use": {
+        "data_types": ["Genomic Data"],
+        "sharing_scope": "Locally only"
+      },
+      "data_retention": {
+        "duration": "7 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2024-08-08",
+      "end": "2025-08-08"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant018 on 2024-08-08",
+      "investigator_signature": "Signed by Dr. Smith on 2024-08-08"
+    },
+    "DUO_terms": [
+      {
+        "code": "HMB",
+        "display": "Health/Medical/Biomedical"
+      },
+      {
+        "code": "HMB",
+        "display": "Health/Medical/Biomedical"
+      }
+    ],
+    "policy_id": "policy018",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent018.pdf"
+    }
+  },
+  {
+    "consent_id": "consent019",
+    "status": "withdrawn",
+    "participant_id": "Participant019",
+    "consent_details": {
+      "purpose": "clinical trials",
+      "scope_of_data_use": {
+        "data_types": ["Genomic Data"],
+        "sharing_scope": "Internationally, with restrictions"
+      },
+      "data_retention": {
+        "duration": "10 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2025-02-26",
+      "end": "2029-02-25"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant019 on 2025-02-26",
+      "investigator_signature": "Signed by Dr. Smith on 2025-02-26"
+    },
+    "DUO_terms": [
+      {
+        "code": "DS",
+        "display": "Disease-specific research"
+      },
+      {
+        "code": "DS",
+        "display": "Disease-specific research"
+      }
+    ],
+    "policy_id": "policy019",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent019.pdf"
+    }
+  },
+  {
+    "consent_id": "consent020",
+    "status": "withdrawn",
+    "participant_id": "Participant020",
+    "consent_details": {
+      "purpose": "genetic studies",
+      "scope_of_data_use": {
+        "data_types": ["Genomic Data"],
+        "sharing_scope": "Internationally, with restrictions"
+      },
+      "data_retention": {
+        "duration": "10 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2025-02-12",
+      "end": "2029-02-11"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant020 on 2025-02-12",
+      "investigator_signature": "Signed by Dr. Smith on 2025-02-12"
+    },
+    "DUO_terms": [
+      {
+        "code": "HMB",
+        "display": "Health/Medical/Biomedical"
+      },
+      {
+        "code": "GEO-EU",
+        "display": "Geographical limitation: EU only"
+      }
+    ],
+    "policy_id": "policy020",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent020.pdf"
+    }
+  },
+  {
+    "consent_id": "consent021",
+    "status": "withdrawn",
+    "participant_id": "Participant021",
+    "consent_details": {
+      "purpose": "clinical trials",
+      "scope_of_data_use": {
+        "data_types": ["Clinical Data"],
+        "sharing_scope": "Locally only"
+      },
+      "data_retention": {
+        "duration": "9 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2025-01-19",
+      "end": "2026-01-19"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant021 on 2025-01-19",
+      "investigator_signature": "Signed by Dr. Smith on 2025-01-19"
+    },
+    "DUO_terms": [
+      {
+        "code": "DS",
+        "display": "Disease-specific research"
+      },
+      {
+        "code": "NCU",
+        "display": "Non-commercial use only"
+      }
+    ],
+    "policy_id": "policy021",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent021.pdf"
+    }
+  },
+  {
+    "consent_id": "consent022",
+    "status": "active",
+    "participant_id": "Participant022",
+    "consent_details": {
+      "purpose": "clinical trials",
+      "scope_of_data_use": {
+        "data_types": ["Phenotypic Data"],
+        "sharing_scope": "Locally only"
+      },
+      "data_retention": {
+        "duration": "5 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2025-01-25",
+      "end": "2028-01-25"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant022 on 2025-01-25",
+      "investigator_signature": "Signed by Dr. Smith on 2025-01-25"
+    },
+    "DUO_terms": [
+      {
+        "code": "NCU",
+        "display": "Non-commercial use only"
+      },
+      {
+        "code": "DS",
+        "display": "Disease-specific research"
+      }
+    ],
+    "policy_id": "policy022",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent022.pdf"
+    }
+  },
+  {
+    "consent_id": "consent023",
+    "status": "withdrawn",
+    "participant_id": "Participant023",
+    "consent_details": {
+      "purpose": "clinical trials",
+      "scope_of_data_use": {
+        "data_types": ["Phenotypic Data"],
+        "sharing_scope": "Internationally, with restrictions"
+      },
+      "data_retention": {
+        "duration": "3 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2024-12-15",
+      "end": "2026-12-15"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant023 on 2024-12-15",
+      "investigator_signature": "Signed by Dr. Smith on 2024-12-15"
+    },
+    "DUO_terms": [
+      {
+        "code": "NCU",
+        "display": "Non-commercial use only"
+      },
+      {
+        "code": "DS",
+        "display": "Disease-specific research"
+      }
+    ],
+    "policy_id": "policy023",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent023.pdf"
+    }
+  },
+  {
+    "consent_id": "consent024",
+    "status": "active",
+    "participant_id": "Participant024",
+    "consent_details": {
+      "purpose": "clinical trials",
+      "scope_of_data_use": {
+        "data_types": ["Clinical Data"],
+        "sharing_scope": "Internationally, with restrictions"
+      },
+      "data_retention": {
+        "duration": "1 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2024-11-13",
+      "end": "2028-11-12"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant024 on 2024-11-13",
+      "investigator_signature": "Signed by Dr. Smith on 2024-11-13"
+    },
+    "DUO_terms": [
+      {
+        "code": "HMB",
+        "display": "Health/Medical/Biomedical"
+      },
+      {
+        "code": "GEO-EU",
+        "display": "Geographical limitation: EU only"
+      }
+    ],
+    "policy_id": "policy024",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent024.pdf"
+    }
+  },
+  {
+    "consent_id": "consent025",
+    "status": "withdrawn",
+    "participant_id": "Participant025",
+    "consent_details": {
+      "purpose": "genetic studies",
+      "scope_of_data_use": {
+        "data_types": ["Clinical Data"],
+        "sharing_scope": "Internationally, with restrictions"
+      },
+      "data_retention": {
+        "duration": "10 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2024-12-18",
+      "end": "2025-12-18"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant025 on 2024-12-18",
+      "investigator_signature": "Signed by Dr. Smith on 2024-12-18"
+    },
+    "DUO_terms": [
+      {
+        "code": "NCU",
+        "display": "Non-commercial use only"
+      },
+      {
+        "code": "NCU",
+        "display": "Non-commercial use only"
+      }
+    ],
+    "policy_id": "policy025",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent025.pdf"
+    }
+  },
+  {
+    "consent_id": "consent026",
+    "status": "active",
+    "participant_id": "Participant026",
+    "consent_details": {
+      "purpose": "clinical trials",
+      "scope_of_data_use": {
+        "data_types": ["Genomic Data"],
+        "sharing_scope": "No restrictions"
+      },
+      "data_retention": {
+        "duration": "8 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2024-12-28",
+      "end": "2025-12-28"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant026 on 2024-12-28",
+      "investigator_signature": "Signed by Dr. Smith on 2024-12-28"
+    },
+    "DUO_terms": [
+      {
+        "code": "GEO-EU",
+        "display": "Geographical limitation: EU only"
+      },
+      {
+        "code": "GEO-EU",
+        "display": "Geographical limitation: EU only"
+      }
+    ],
+    "policy_id": "policy026",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent026.pdf"
+    }
+  },
+  {
+    "consent_id": "consent027",
+    "status": "active",
+    "participant_id": "Participant027",
+    "consent_details": {
+      "purpose": "genetic studies",
+      "scope_of_data_use": {
+        "data_types": ["Clinical Data"],
+        "sharing_scope": "Internationally, with restrictions"
+      },
+      "data_retention": {
+        "duration": "4 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2025-05-21",
+      "end": "2027-05-21"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant027 on 2025-05-21",
+      "investigator_signature": "Signed by Dr. Smith on 2025-05-21"
+    },
+    "DUO_terms": [
+      {
+        "code": "NCU",
+        "display": "Non-commercial use only"
+      },
+      {
+        "code": "HMB",
+        "display": "Health/Medical/Biomedical"
+      }
+    ],
+    "policy_id": "policy027",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent027.pdf"
+    }
+  },
+  {
+    "consent_id": "consent028",
+    "status": "inactive",
+    "participant_id": "Participant028",
+    "consent_details": {
+      "purpose": "clinical trials",
+      "scope_of_data_use": {
+        "data_types": ["Genomic Data"],
+        "sharing_scope": "Locally only"
+      },
+      "data_retention": {
+        "duration": "3 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2024-08-27",
+      "end": "2027-08-27"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant028 on 2024-08-27",
+      "investigator_signature": "Signed by Dr. Smith on 2024-08-27"
+    },
+    "DUO_terms": [
+      {
+        "code": "NCU",
+        "display": "Non-commercial use only"
+      },
+      {
+        "code": "HMB",
+        "display": "Health/Medical/Biomedical"
+      }
+    ],
+    "policy_id": "policy028",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent028.pdf"
+    }
+  },
+  {
+    "consent_id": "consent029",
+    "status": "active",
+    "participant_id": "Participant029",
+    "consent_details": {
+      "purpose": "biomedical research",
+      "scope_of_data_use": {
+        "data_types": ["Genomic Data"],
+        "sharing_scope": "No restrictions"
+      },
+      "data_retention": {
+        "duration": "1 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2025-01-04",
+      "end": "2026-01-04"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant029 on 2025-01-04",
+      "investigator_signature": "Signed by Dr. Smith on 2025-01-04"
+    },
+    "DUO_terms": [
+      {
+        "code": "HMB",
+        "display": "Health/Medical/Biomedical"
+      },
+      {
+        "code": "HMB",
+        "display": "Health/Medical/Biomedical"
+      }
+    ],
+    "policy_id": "policy029",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent029.pdf"
+    }
+  },
+  {
+    "consent_id": "consent030",
+    "status": "withdrawn",
+    "participant_id": "Participant030",
+    "consent_details": {
+      "purpose": "clinical trials",
+      "scope_of_data_use": {
+        "data_types": ["Phenotypic Data"],
+        "sharing_scope": "No restrictions"
+      },
+      "data_retention": {
+        "duration": "3 years",
+        "conditions": "Data will be anonymized after project completion"
+      },
+      "withdrawal_terms": {
+        "process": "Participant may withdraw consent at any time without reason",
+        "data_handling_post_withdrawal": "Data to be destroyed upon withdrawal"
+      }
+    },
+    "consent_period": {
+      "start": "2024-11-07",
+      "end": "2029-11-06"
+    },
+    "signatures": {
+      "participant_signature": "Signed by Participant030 on 2024-11-07",
+      "investigator_signature": "Signed by Dr. Smith on 2024-11-07"
+    },
+    "DUO_terms": [
+      {
+        "code": "HMB",
+        "display": "Health/Medical/Biomedical"
+      },
+      {
+        "code": "NCU",
+        "display": "Non-commercial use only"
+      }
+    ],
+    "policy_id": "policy030",
+    "policy_documents": {
+      "consent_form_link": "http://example.org/consentforms/consent030.pdf"
+    }
+  }
+]

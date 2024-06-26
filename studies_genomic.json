@@ -1,0 +1,722 @@
+[
+  {
+    "accession_id": "EGA123450",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "109"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent001"
+  },
+  {
+    "accession_id": "EGA123451",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "174"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent002"
+  },
+  {
+    "accession_id": "EGA123452",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "395"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent003"
+  },
+  {
+    "accession_id": "EGA123453",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "190"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent004"
+  },
+  {
+    "accession_id": "EGA123454",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "429"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent005"
+  },
+  {
+    "accession_id": "EGA123455",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "333"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent006"
+  },
+  {
+    "accession_id": "EGA123456",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "355"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent007"
+  },
+  {
+    "accession_id": "EGA123457",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "235"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent008"
+  },
+  {
+    "accession_id": "EGA123458",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "382"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent009"
+  },
+  {
+    "accession_id": "EGA123459",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "355"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent010"
+  },
+  {
+    "accession_id": "EGA1234510",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "355"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent011"
+  },
+  {
+    "accession_id": "EGA1234511",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "410"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent012"
+  },
+  {
+    "accession_id": "EGA1234512",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "347"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent013"
+  },
+  {
+    "accession_id": "EGA1234513",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "218"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent014"
+  },
+  {
+    "accession_id": "EGA1234514",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "492"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent015"
+  },
+  {
+    "accession_id": "EGA1234515",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "318"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent016"
+  },
+  {
+    "accession_id": "EGA1234516",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "249"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent017"
+  },
+  {
+    "accession_id": "EGA1234517",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "348"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent018"
+  },
+  {
+    "accession_id": "EGA1234518",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "424"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent019"
+  },
+  {
+    "accession_id": "EGA1234519",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "405"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent020"
+  },
+  {
+    "accession_id": "EGA1234520",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "399"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent021"
+  },
+  {
+    "accession_id": "EGA1234521",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "205"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent022"
+  },
+  {
+    "accession_id": "EGA1234522",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "213"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent023"
+  },
+  {
+    "accession_id": "EGA1234523",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "158"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent024"
+  },
+  {
+    "accession_id": "EGA1234524",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "198"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent025"
+  },
+  {
+    "accession_id": "EGA1234525",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "194"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent026"
+  },
+  {
+    "accession_id": "EGA1234526",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "365"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent027"
+  },
+  {
+    "accession_id": "EGA1234527",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "386"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent028"
+  },
+  {
+    "accession_id": "EGA1234528",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "453"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent029"
+  },
+  {
+    "accession_id": "EGA1234529",
+    "title": "Genetic Markers in Early-Onset Alzheimer's Disease",
+    "description": "This study focuses on identifying genetic markers associated with early-onset Alzheimer's disease to improve diagnostic strategies.",
+    "study_type": "Observational",
+    "pubmed_ids": [29874122],
+    "status": "Completed",
+    "custom_tags": ["Alzheimer's", "genetic markers", "diagnostic development"],
+    "extra_attributes": {
+      "funding": "XYZ Foundation",
+      "participant_count": "366"
+    },
+    "repositories": [
+      {
+        "repository_name": "GenBank",
+        "url": "https://www.ncbi.nlm.nih.gov/genbank"
+      }
+    ],
+    "created_at": "2021-06-01",
+    "creator_username": "researcher01",
+    "is_deprecated": false,
+    "submission_title": "Initial Submission of Alzheimer's Study",
+    "consent_id": "consent030"
+  }
+]
